@@ -1,0 +1,10 @@
+﻿  wine1.cpp
+C:\temp\wine\cpp_project\wine1\wine1.cpp(154,14): warning C4101: 'rd': unreferenced local variable
+C:\temp\wine\cpp_project\wine1\wine1.cpp(168,14): warning C4101: 'rd': unreferenced local variable
+C:\temp\wine\cpp_project\wine1\wine1.cpp(319,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\temp\wine\cpp_project\wine1\wine1.cpp(327,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\temp\wine\cpp_project\wine1\wine1.cpp(342,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\temp\wine\cpp_project\wine1\wine1.cpp(324,12): warning C4101: 'j': unreferenced local variable
+C:\temp\wine\cpp_project\wine1\wine1.cpp(404,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\temp\wine\cpp_project\wine1\wine1.cpp(433,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  wine1.vcxproj -> C:\temp\wine\cpp_project\wine1\x64\Debug\wine1.exe
